@@ -1,0 +1,1 @@
+# Add the ads.txt line from your Adsterra account here once it is approved.
